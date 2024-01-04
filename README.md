@@ -1,1 +1,2 @@
 # PuzzlePlatform
+> [!NOTE]
